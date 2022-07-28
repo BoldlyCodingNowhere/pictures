@@ -4,3 +4,4 @@ pictures to use on freecodecamp
 ![Laika](Laika.jpg)
 ![tagsyntax](tagsyntax.png)
 ![tagsyntaxattribute](tagsyntaxattribute.png)
+![ClarinetStudioLogo](ClarinetStudioLogo.png)
