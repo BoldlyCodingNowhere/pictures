@@ -6,3 +6,4 @@ pictures to use on freecodecamp
 ![tagsyntaxattribute](tagsyntaxattribute.png)
 ![ClarinetStudioLogo](ClarinetStudioLogo.png)
 ![BuffetCramponProdigeBbClarinet](BuffetCramponProdigeBbClarinet.png)
+![ArtemisStudentBbClarinet](ArtemisStudentBbClarinet.png)
