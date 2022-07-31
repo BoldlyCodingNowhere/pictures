@@ -7,3 +7,4 @@ pictures to use on freecodecamp
 ![ClarinetStudioLogo](ClarinetStudioLogo.png)
 ![BuffetCramponProdigeBbClarinet](BuffetCramponProdigeBbClarinet.png)
 ![ArtemisStudentBbClarinet](ArtemisStudentBbClarinet.png)
+![YahamaYCLBbBassClarinet](YahamaYCLBbBassClarinet.png)
