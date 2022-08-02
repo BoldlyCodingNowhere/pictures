@@ -8,3 +8,4 @@ pictures to use on freecodecamp
 ![BuffetCramponProdigeBbClarinet](BuffetCramponProdigeBbClarinet.png)
 ![ArtemisStudentBbClarinet](ArtemisStudentBbClarinet.png)
 ![YahamaYCLBbBassClarinet](YahamaYCLBbBassClarinet.png)
+![LogoNoText](LogoNoText.png)
