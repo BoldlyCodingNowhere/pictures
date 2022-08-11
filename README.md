@@ -9,3 +9,4 @@ pictures to use on freecodecamp
 ![ArtemisStudentBbClarinet](ArtemisStudentBbClarinet.png)
 ![YahamaYCLBbBassClarinet](YahamaYCLBbBassClarinet.png)
 ![LogoNoText](LogoNoText.png)
+![digital-data-background](digital-data-background.png)
